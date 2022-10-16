@@ -2,43 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://geobour98.com/about/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://geobour98.com/blog/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://geobour98.com/write-ups/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://geobour98.com/write-ups/pg/</loc>
-  </url><url>
-    <loc>https://geobour98.com/write-ups/thm/</loc>
-  </url><url>
-    <loc>https://geobour98.com/categories/</loc>
-  </url><url>
     <loc>https://geobour98.com/</loc>
-  </url><url>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://geobour98.com/about/</loc>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://geobour98.com/blog/</loc>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://geobour98.com/write-ups/</loc>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://geobour98.com/write-ups/pg/</loc>
+  </url>
+  <url>
+    <loc>https://geobour98.com/write-ups/thm/</loc>
+  </url>
+  <url>
+    <loc>https://geobour98.com/categories/</loc>
+  </url>
+  <url>
     <loc>https://geobour98.com/write-ups/pg/blogger/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://geobour98.com/write-ups/pg/dc-4/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://geobour98.com/write-ups/pg/icmp/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://geobour98.com/search/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://geobour98.com/tags/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://geobour98.com/write-ups/thm/annie/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://geobour98.com/write-ups/thm/hackervshacker/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://geobour98.com/write-ups/thm/jason/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://geobour98.com/write-ups/thm/olympus/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://geobour98.com/write-ups/thm/vulnnetnode/</loc>
-  </url><url>
+  </url>
+  <url>
     <loc>https://geobour98.com/write-ups/</loc>
   </url>
 </urlset>
