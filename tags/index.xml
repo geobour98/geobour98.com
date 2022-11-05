@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on geobour98</title>
+    <link>https://geobour98.com/tags/</link>
+    <description>Recent content in Tags on geobour98</description>
+    <image>
+      <url>https://geobour98.com/47</url>
+      <link>https://geobour98.com/47</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://geobour98.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/base64/base64/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/base64/base64/</guid>
+      <description>base64 [2] TryHackMe - VulnNet: Node
+ TryHackMe - Jason
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/bash-history/bash-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/bash-history/bash-history/</guid>
+      <description>bash-history [1] TryHackMe - Hacker vs. Hacker
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/container/container/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/container/container/</guid>
+      <description>container [1] TryHackMe - Dogcat
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/cputils/cputils/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/cputils/cputils/</guid>
+      <description>cputils [1] TryHackMe - Olympus
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/default-creds/default-creds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/default-creds/default-creds/</guid>
+      <description>default-creds [1] Proving Grounds - Blogger
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/deserialization/deserialization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/deserialization/deserialization/</guid>
+      <description>deserialization [2] TryHackMe - VulnNet: Node
+ TryHackMe - Jason
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/docker/docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/docker/docker/</guid>
+      <description>docker [1] TryHackMe - Dogcat
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/env/env/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/env/env/</guid>
+      <description>env [1] TryHackMe - Dogcat
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/exfiltration/exfiltration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/exfiltration/exfiltration/</guid>
+      <description>exfiltration [1] Proving Grounds - ICMP
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/file-upload/file-upload/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/file-upload/file-upload/</guid>
+      <description>file-upload [2] TryHackMe - Olympus
+ TryHackMe - Hacker vs. Hacker
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/grep/grep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/grep/grep/</guid>
+      <description>grep [1] TryHackMe - Olympus
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/gtfobins/gtfobins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/gtfobins/gtfobins/</guid>
+      <description>gtfobins [2] TryHackMe - Dogcat
+ TryHackMe - Jason
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/hping3/hping3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/hping3/hping3/</guid>
+      <description>hping3 [1] Proving Grounds - ICMP
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/hydra/hydra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/hydra/hydra/</guid>
+      <description>hydra [1] Proving Grounds - DC-4
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/icmp/icmp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/icmp/icmp/</guid>
+      <description>icmp [1] Proving Grounds - ICMP
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/john/john/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/john/john/</guid>
+      <description>john [1] TryHackMe - Olympus
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/lfi/lfi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/lfi/lfi/</guid>
+      <description>lfi [1] TryHackMe - Dogcat
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/linpeas/linpeas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/linpeas/linpeas/</guid>
+      <description>linpeas [2] TryHackMe - Olympus
+ TryHackMe - Annie
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/linux/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/linux/linux/</guid>
+      <description>linux [8] TryHackMe - Dogcat
+ Proving Grounds - DC-4
+ TryHackMe - Olympus
+ Proving Grounds - Blogger
+ Proving Grounds - ICMP
+ TryHackMe - VulnNet: Node
+ TryHackMe - Annie
+ TryHackMe - Hacker vs. Hacker
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/log-poisoning/log-poisoning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/log-poisoning/log-poisoning/</guid>
+      <description>log-poisoning [1] TryHackMe - Dogcat
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/magic-bytes/magic-bytes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/magic-bytes/magic-bytes/</guid>
+      <description>magic-bytes [1] Proving Grounds - Blogger
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/msfvenom/msfvenom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/msfvenom/msfvenom/</guid>
+      <description>msfvenom [1] TryHackMe - Annie
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/node.js/node.js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/node.js/node.js/</guid>
+      <description>node.js [2] TryHackMe - VulnNet: Node
+ TryHackMe - Jason
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/npm/npm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/npm/npm/</guid>
+      <description>npm [2] TryHackMe - VulnNet: Node
+ TryHackMe - Jason
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/openssl/openssl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/openssl/openssl/</guid>
+      <description>openssl [1] Proving Grounds - DC-4
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/pcap/pcap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/pcap/pcap/</guid>
+      <description>pcap [1] Proving Grounds - ICMP
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/php/php/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/php/php/</guid>
+      <description>php [5] TryHackMe - Dogcat
+ Proving Grounds - DC-4
+ TryHackMe - Olympus
+ Proving Grounds - Blogger
+ TryHackMe - Hacker vs. Hacker
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/python/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/python/python/</guid>
+      <description>python [2] Proving Grounds - ICMP
+ TryHackMe - Annie
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/rwx/rwx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/rwx/rwx/</guid>
+      <description>rwx [1] Proving Grounds - ICMP
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/searchsploit/searchsploit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/searchsploit/searchsploit/</guid>
+      <description>searchsploit [1] Proving Grounds - ICMP
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/service/service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/service/service/</guid>
+      <description>service [1] TryHackMe - VulnNet: Node
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/setcap/setcap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/setcap/setcap/</guid>
+      <description>setcap [1] TryHackMe - Annie
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/sqli/sqli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/sqli/sqli/</guid>
+      <description>sqli [1] TryHackMe - Olympus
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/sqlmap/sqlmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/sqlmap/sqlmap/</guid>
+      <description>sqlmap [1] TryHackMe - Olympus
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/ssh/ssh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/ssh/ssh/</guid>
+      <description>ssh [1] Proving Grounds - DC-4
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/ssh2john/ssh2john/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/ssh2john/ssh2john/</guid>
+      <description>ssh2john [1] TryHackMe - Olympus
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/sudo/sudo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/sudo/sudo/</guid>
+      <description>sudo [5] TryHackMe - Dogcat
+ Proving Grounds - DC-4
+ Proving Grounds - Blogger
+ Proving Grounds - ICMP
+ TryHackMe - VulnNet: Node
+ TryHackMe - Jason
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/suid/suid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/suid/suid/</guid>
+      <description>suid [2] TryHackMe - Olympus
+ TryHackMe - Annie
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/systemctl/systemctl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/systemctl/systemctl/</guid>
+      <description>systemctl [1] TryHackMe - VulnNet: Node
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/tcpdump/tcpdump/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/tcpdump/tcpdump/</guid>
+      <description>tcpdump [1] Proving Grounds - ICMP
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/teehee/teehee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/teehee/teehee/</guid>
+      <description>teehee [1] Proving Grounds - DC-4
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/udp/udp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/udp/udp/</guid>
+      <description>udp [1] TryHackMe - Annie
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/vagrant/vagrant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/vagrant/vagrant/</guid>
+      <description>vagrant [1] Proving Grounds - Blogger
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/vhosts/vhosts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/vhosts/vhosts/</guid>
+      <description>vhosts [2] TryHackMe - Olympus
+ Proving Grounds - Blogger
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/web/web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/web/web/</guid>
+      <description>web [8] TryHackMe - Dogcat
+ Proving Grounds - DC-4
+ TryHackMe - Olympus
+ Proving Grounds - Blogger
+ Proving Grounds - ICMP
+ TryHackMe - VulnNet: Node
+ TryHackMe - Jason
+ TryHackMe - Hacker vs. Hacker
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/wireshark/wireshark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/wireshark/wireshark/</guid>
+      <description>wireshark [1] Proving Grounds - ICMP
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/wordpress/wordpress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/wordpress/wordpress/</guid>
+      <description>wordpress [1] Proving Grounds - Blogger
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://geobour98.com/tags/wpscan/wpscan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geobour98.com/tags/wpscan/wpscan/</guid>
+      <description>wpscan [1] Proving Grounds - Blogger
+ </description>
+    </item>
+    
+  </channel>
+</rss>
